@@ -1,0 +1,10 @@
+{
+  "name": "agentic-harness-sandbox",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "agentic-harness의 Agent가 작업하는 연습용 대상 저장소",
+  "scripts": {
+    "test": "node --test"
+  }
+}
